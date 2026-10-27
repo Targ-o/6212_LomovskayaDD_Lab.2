@@ -12,20 +12,26 @@
 
 ## Скриншоты выполненных тестов
 **Задание 1:**
+
 <img width="366" height="204" alt="image" src="https://github.com/user-attachments/assets/865ac494-4b17-4342-81e8-a8b532636c60" />
 
 
 **Задание 2:**
+
 <img width="551" height="242" alt="image" src="https://github.com/user-attachments/assets/6668d0b2-4014-4dd0-9ee6-ca733b0fb0f2" />
 
 
 **Задание 3:**
+
 <img width="514" height="148" alt="image" src="https://github.com/user-attachments/assets/d700efec-fd18-49fe-92f2-b41654a73249" />
 
 
 **Задание 4:**
+
 <img width="658" height="196" alt="image" src="https://github.com/user-attachments/assets/c961c1f9-0200-443f-bbc5-110abec65102" />
 
 
 **Задание 5:**
+
+<img width="409" height="292" alt="image" src="https://github.com/user-attachments/assets/dfcfd808-34bc-4d47-bee2-fa0d1fa71d10" />
 
