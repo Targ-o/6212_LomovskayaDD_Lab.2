@@ -1,14 +1,14 @@
 
 export function higherThan(num) {
-    return function(item){
-        return item>num;
+    return function(element, index, array){
+        return element>num;
     };
 }
 
 
 export function hasSubstring(substr) {
-    return function(item){
-        return item.includes(substr);
+    return function(element, index, array){
+        return element.includes(substr);
     };
 }
 
